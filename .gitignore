@@ -1,0 +1,8 @@
+#---------------------
+# Visual Studio
+#---------------------
+*.suo
+*.user
+obj/
+bin/
+src/packages/
